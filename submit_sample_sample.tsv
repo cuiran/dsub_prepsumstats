@@ -1,0 +1,2 @@
+--env SUMSTAT	--env N	--env OUT
+/mnt/data/ss/UKB.ALP.BOLT.txt	345247	/mnt/data/result/UKB.ALP.BOLT

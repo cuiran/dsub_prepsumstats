@@ -1,0 +1,171 @@
+MPRA	FM	GWAS	Cohort	Trait_Name	Trait_ID	N	N_Cases	N_Controls	N_Region	N_LD	N_FINEMAP	N_SuSiE	Phenotype_Ref
+FALSE	TRUE	TRUE	UKBB	Null GWAS (h2g = 20%, m_causal = 1000)	null_h2g20_m10000	361194			365	365	354	364	
+FALSE	TRUE	TRUE	UKBB	Null GWAS (h2g = 20%, m_causal = 5000)	null_h2g20_m5000	361194			350	350	334	350	
+FALSE	TRUE	TRUE	UKBB	Adult height	Height	360415			334	327	217	285	
+FALSE	TRUE	TRUE	UKBB	Body weight	BW	360153			327	325	304	320	
+TRUE	TRUE	TRUE	UKBB	Platelet count	Plt	351327			314	314	283	302	
+TRUE	TRUE	TRUE	UKBB	Estimated heel bone mineral density	eBMD	326159			301	300	265	293	
+TRUE	TRUE	TRUE	UKBB	Body mass index	BMI	360023			300	300	279	290	
+FALSE	TRUE	TRUE	UKBB	Estimated glomerular filtration rate (serum creatinine + cystain C)	eGFRcreacys	344825			298	298	278	287	
+FALSE	TRUE	TRUE	UKBB	Cystatin C	CysC	345219			286	286	273	280	
+FALSE	TRUE	TRUE	UKBB	Insulin-like growth factor 1	IGF1	343465			284	283	257	278	
+FALSE	TRUE	TRUE	UKBB	Serum creatinine	sCr	345067			283	282	270	278	
+FALSE	TRUE	TRUE	UKBB	Estimated glomerular filtration rate (cystain C)	eGFRcys	345219			280	280	268	275	
+TRUE	TRUE	TRUE	UKBB	Body fat percentage	BFP	354844			278	278	263	269	
+TRUE	TRUE	TRUE	UKBB	Estimated glomerular filtration rate (serum creatinine)	eGFR	345067			275	274	262	269	
+FALSE	TRUE	TRUE	UKBB	White blood cell count	WBC	351324			272	271	255	265	
+TRUE	TRUE	TRUE	UKBB	Lymphocyte count	Lym	350726			268	267	255	264	
+FALSE	TRUE	TRUE	BBJ	Adult height	Height	165056			267	267	263	267	
+FALSE	TRUE	TRUE	UKBB	Mean corpuscular volume	MCV	351327			266	265	241	259	
+FALSE	TRUE	TRUE	UKBB	Null GWAS (h2g = 20%, m_causal = 1000)	null_h2g20_m1000	361194			266	266	266	266	
+TRUE	TRUE	TRUE	UKBB	Hemoglobin A1c	HbA1c	345271			264	264	254	261	
+FALSE	TRUE	TRUE	BBJ	Null GWAS (h2g = 20%, m_causal = 5000)	null_h2g20_m5000	180987			264	263	263	263	
+TRUE	TRUE	TRUE	UKBB	Red blood cell count	RBC	351328			263	262	232	256	
+TRUE	TRUE	TRUE	UKBB	Eosinophil count	Eosino	350726			262	262	244	257	
+TRUE	TRUE	TRUE	UKBB	Monocyte count	Mono	350726			259	258	246	254	
+FALSE	TRUE	TRUE	UKBB	Mean corpuscular hemoglobin	MCH	351324			258	258	236	251	
+TRUE	TRUE	TRUE	UKBB	Alkaline phosphatase	ALP	345247			254	254	245	250	
+TRUE	TRUE	TRUE	UKBB	FEV1/FVC ratio	FEV1FVC	272338			254	253	242	249	
+FALSE	TRUE	TRUE	UKBB	Pluse pressure	PP	360863			252	252	241	248	
+FALSE	TRUE	TRUE	UKBB	Forced vital capacity	FVC	272338			244	242	231	241	http://biobank.ndph.ox.ac.uk/showcase/field.cgi?id=20151
+TRUE	TRUE	TRUE	UKBB	Gamma-glutamyl transferase	GGT	345062			244	243	235	242	
+FALSE	TRUE	TRUE	UKBB	Non-albumin protein	NAP	316549			241	240	233	239	
+TRUE	TRUE	TRUE	UKBB	Neutrophil count	Neutro	350726			240	240	227	233	
+FALSE	TRUE	TRUE	UKBB	Hemoglobin	Hb	351327			238	237	224	235	
+FALSE	TRUE	TRUE	BBJ	Null GWAS (h2g = 20%, m_causal = 1000)	null_h2g20_m10000	180987			237	237	237	236	
+FALSE	TRUE	TRUE	UKBB	Albumin/Globulin ratio	AG	316549			236	236	224	232	
+FALSE	TRUE	TRUE	UKBB	High density lipoprotein cholesterol	HDLC	316875			230	229	219	227	
+TRUE	TRUE	TRUE	UKBB	Sex hormone binding globulin	SHBG	313997			226	226	218	222	
+FALSE	TRUE	TRUE	UKBB	Hematocrit	Ht	351328			224	224	214	220	
+TRUE	TRUE	TRUE	UKBB	Uric acid	UA	344801			224	222	217	222	
+FALSE	TRUE	TRUE	UKBB	Forced expiratory volume in 1-second	FEV1	272338			219	218	214	216	http://biobank.ndph.ox.ac.uk/showcase/field.cgi?id=20150
+TRUE	TRUE	TRUE	UKBB	Aspartate aminotransferase	AST	343988			211	211	205	208	
+FALSE	TRUE	TRUE	UKBB	Total protein	TP	316664			211	211	208	207	
+FALSE	TRUE	TRUE	UKBB	Wait-to-hip ratio (adjusted by BMI)	WHRadjBMI	360505			206	204	202	204	
+TRUE	TRUE	TRUE	UKBB	Apolipoprotein A	ApoA	315139			205	204	199	201	http://biobank.ctsu.ox.ac.uk/crystal/field.cgi?id=30630
+TRUE	TRUE	TRUE	UKBB	Systolic blood pressure	SBP	360863			205	205	203	203	
+TRUE	TRUE	TRUE	UKBB	Low density lipoprotein cholesterol	LDLC	344613			203	197	195	197	
+FALSE	TRUE	TRUE	UKBB	Null GWAS (h2g = 20%, m_causal = 500)	null_h2g20_m500	361194			199	199	199	198	
+FALSE	TRUE	TRUE	BBJ	Null GWAS (h2g = 20%, m_causal = 1000)	null_h2g20_m1000	180987			195	195	195	195	
+TRUE	TRUE	TRUE	UKBB	Diastolic blood pressure	DBP	360865			192	191	190	189	
+TRUE	TRUE	TRUE	UKBB	Triglyceride	TG	344952			190	190	184	188	
+FALSE	TRUE	TRUE	UKBB	Albumin	Alb	317006			187	186	184	184	
+FALSE	TRUE	TRUE	UKBB	Alanine aminotransferase	ALT	345091			186	186	185	182	
+FALSE	TRUE	TRUE	UKBB	Mean arterial pressure	MAP	360863			180	180	178	178	
+TRUE	TRUE	TRUE	UKBB	C-reactive protein	CRP	344503			173	173	170	171	
+FALSE	TRUE	TRUE	UKBB	Age at menarche	Age_at_Menarche	188645			170	170	169	167	
+FALSE	TRUE	TRUE	UKBB	Calcium	Ca	316888			170	170	168	169	http://biobank.ndph.ox.ac.uk/showcase/field.cgi?id=30680
+FALSE	TRUE	TRUE	UKBB	Urea	Urea	345014			160	160	159	160	
+FALSE	TRUE	TRUE	BBJ	Null GWAS (h2g = 20%, m_causal = 500)	null_h2g20_m500	180987			153	153	153	153	
+FALSE	TRUE	TRUE	UKBB	Total cholesterol	TC	345235			141	140	138	140	
+TRUE	TRUE	TRUE	UKBB	Total bilirubin	TBil	343836			140	139	137	138	
+FALSE	TRUE	TRUE	UKBB	Apolipoprotein B	ApoB	343572			136	135	134	135	
+FALSE	TRUE	TRUE	UKBB	Balding Type 4	Balding_Type4	167000			133	132	131	132	
+FALSE	TRUE	TRUE	BBJ	Body weight	BW	165419			130	130	130	130	
+FALSE	TRUE	TRUE	UKBB	Phosphate	P	316407			129	129	126	128	
+FALSE	TRUE	TRUE	UKBB	Peak expiratory flow	PEF	331017			121	120	120	120	
+TRUE	TRUE	TRUE	BBJ	Platelet count	Plt	148623			120	120	119	120	
+FALSE	TRUE	TRUE	UKBB	Loss of Y	LOY	167020			116	115	109	100	
+FALSE	TRUE	TRUE	UKBB	Morning person	Morning_Person	360203			112	112	112	112	
+FALSE	TRUE	TRUE	BBJ	Mean corpuscular volume	MCV	129832			110	110	110	110	
+FALSE	TRUE	TRUE	UKBB	Blood clot in the leg	DVT	361144			109	108	105	108	http://biobank.ctsu.ox.ac.uk/crystal/field.cgi?id=6152
+FALSE	TRUE	TRUE	BBJ	Mean corpuscular hemoglobin	MCH	128028			105	105	105	105	
+FALSE	TRUE	TRUE	UKBB	Basophil count (removed zero-value individuals)	Baso2	248275			104	104	104	103	
+FALSE	TRUE	TRUE	UKBB	Glucose	Glucose	316666			99	99	99	97	
+FALSE	TRUE	TRUE	UKBB	Testosterone	Testosterone	313505			98	98	97	97	
+FALSE	TRUE	TRUE	UKBB	Indirect bilirubin	IBil	294542			97	97	96	96	
+FALSE	TRUE	TRUE	UKBB	Direct bilirubin	DBil	294785			88	88	87	87	
+FALSE	TRUE	TRUE	UKBB	Smoking (ever vs never)	Smoking_Ever_Never	359657			83	83	83	83	
+TRUE	TRUE	TRUE	BBJ	Red blood cell count	RBC	153512			82	82	82	82	
+TRUE	TRUE	TRUE	BBJ	Type 2 diabetes	T2D	177145			82	83	82	82	
+FALSE	TRUE	TRUE	UKBB	Mean corpuscular hemoglobin concentration	MCHC	351321			81	81	81	80	
+FALSE	TRUE	TRUE	UKBB	Age at menopause	Age_at_Menopause	109110			79	79	79	78	
+TRUE	TRUE	TRUE	BBJ	Body mass index	BMI	163835			79	79	79	79	
+FALSE	TRUE	TRUE	BBJ	Serum creatinine	sCr	150266			79	79	79	79	
+FALSE	TRUE	TRUE	UKBB	Null GWAS (h2g = 20%, m_causal = 100)	null_h2g20_m100	361194			75	75	75	75	
+TRUE	TRUE	TRUE	BBJ	Type 2 diabetes (adjusted by BMI)	T2D_BMI	162181			75	75	74	74	
+TRUE	TRUE	TRUE	UKBB	Basophil count	Baso	350726			70	70	69	67	
+FALSE	TRUE	TRUE	BBJ	White blood cell count	WBC	154355			70	70	70	70	
+FALSE	TRUE	TRUE	UKBB	Autoimmune disease (Phecode + Self-reported)	AID_Combined	293798			58	57	57	57	
+FALSE	TRUE	TRUE	BBJ	Null GWAS (h2g = 20%, m_causal = 100)	null_h2g20_m100	180987			58	58	58	57	
+FALSE	TRUE	TRUE	UKBB	Autoimmune disease (Self-reported)	AID_Self	361144			57	56	56	56	
+FALSE	TRUE	TRUE	BBJ	Non-albumin protein	NAP	117608			56	56	56	56	
+FALSE	TRUE	TRUE	UKBB	Vitamin D	VitD	330456			55	55	55	55	
+TRUE	TRUE	TRUE	BBJ	Gamma-glutamyl transferase	GGT	133471			51	51	51	51	
+TRUE	TRUE	TRUE	UKBB	Type 2 diabetes (adjusted by BMI)	T2D_BMI	358897			50	62	50	50	
+TRUE	TRUE	TRUE	BBJ	Estimated glomerular filtration rate (serum creatinine)	eGFR	154633			50	50	50	50	
+TRUE	TRUE	TRUE	BBJ	Monocyte count	Mono	95119			49	49	49	49	
+FALSE	TRUE	TRUE	BBJ	Albumin/Globulin ratio	AG	117733			48	48	48	48	
+FALSE	TRUE	TRUE	BBJ	Mean corpuscular hemoglobin concentration	MCHC	135482			46	46	46	46	
+FALSE	TRUE	TRUE	BBJ	Coronary artery disease	CAD	178726			45	45	45	45	
+FALSE	TRUE	TRUE	BBJ	Hematocrit	Ht	153015			45	45	45	45	
+TRUE	TRUE	TRUE	UKBB	Type 2 diabetes	T2D	360058			44	59	43	43	
+FALSE	TRUE	TRUE	UKBB	Hypothyroidism	Hypothyroidism	358851			39	38	38	38	
+FALSE	TRUE	TRUE	BBJ	Hemoglobin	Hb	152447			39	39	39	39	
+FALSE	TRUE	TRUE	BBJ	Total cholesterol	TC	135808			39	39	39	39	
+FALSE	TRUE	TRUE	UKBB	Multi-site chronic pain	MCP	361187			37	37	37	37	
+TRUE	TRUE	TRUE	BBJ	Eosinophil count	Eosino	93063			37	37	37	37	
+FALSE	TRUE	TRUE	BBJ	Total protein	TP	133321			37	37	37	37	
+TRUE	TRUE	TRUE	BBJ	Uric acid	UA	129405			37	37	37	37	
+FALSE	TRUE	TRUE	UKBB	Atrial fibrillation	AFib	349512			35	35	35	35	
+FALSE	TRUE	TRUE	BBJ	High density lipoprotein cholesterol	HDLC	74970			35	35	35	35	
+TRUE	TRUE	TRUE	BBJ	Alkaline phosphatase	ALP	118886			34	34	33	34	
+TRUE	TRUE	TRUE	BBJ	Systolic blood pressure	SBP	145505			34	34	34	34	
+FALSE	TRUE	TRUE	UKBB	Coronary artery disease	CAD	360710			33	34	33	33	
+FALSE	TRUE	TRUE	UKBB	Insomnia	Insomnia	360740			32	32	32	32	
+TRUE	TRUE	TRUE	BBJ	Aspartate aminotransferase	AST	150068			32	32	32	32	
+FALSE	TRUE	TRUE	BBJ	Mean arterial pressure	MAP	145502			32	32	32	32	
+TRUE	TRUE	TRUE	BBJ	Basophil count	Baso	91908			31	31	31	31	
+FALSE	TRUE	TRUE	BBJ	Alanine aminotransferase	ALT	150545			30	30	30	30	
+TRUE	TRUE	TRUE	BBJ	Low density lipoprotein cholesterol	LDLC	72866			28	28	28	28	
+TRUE	TRUE	TRUE	BBJ	Triglyceride	TG	111667			28	28	28	28	
+FALSE	TRUE	TRUE	UKBB	Asthma	Asthma	354883			26	28	25	25	
+TRUE	TRUE	TRUE	BBJ	Neutrophil count	Neutro	82810			25	25	25	25	
+FALSE	TRUE	TRUE	UKBB	Autoimmune disease (Phecode)	AID	286968			24	23	23	23	
+TRUE	TRUE	TRUE	BBJ	Lymphocyte count	Lym	95717			24	24	24	24	
+FALSE	TRUE	TRUE	UKBB	Fibroblastic disorders	Fibroblastic_Disorders	361144			23	23	23	23	ICD10: M72
+FALSE	TRUE	TRUE	BBJ	Albumin	Alb	120539			23	23	23	23	
+FALSE	TRUE	TRUE	UKBB	Seen doctor (GP) for nerves, anxiety, tension or depression	Depression_GP	361144			22	21	21	21	http://biobank.ndph.ox.ac.uk/showcase/field.cgi?id=2090
+TRUE	TRUE	TRUE	BBJ	Diastolic blood pressure	DBP	145515			22	22	22	22	
+FALSE	TRUE	TRUE	BBJ	Prostate cancer	PrC	95965			22	22	22	22	
+FALSE	TRUE	TRUE	UKBB	Glaucoma (Phecode + Self-reported)	Glaucoma_Combined	354399			21	21	21	21	
+TRUE	TRUE	TRUE	BBJ	Hemoglobin A1c	HbA1c	71221			21	21	21	21	
+FALSE	TRUE	TRUE	BBJ	Pluse pressure	PP	145445			21	21	21	21	
+FALSE	TRUE	TRUE	UKBB	Breast cancer	BrC	343346			19	19	19	19	
+FALSE	TRUE	TRUE	UKBB	Inguinal hernia	Inguinal_Hernia	333807			19	18	18	18	
+FALSE	TRUE	TRUE	UKBB	Cholelithiasis	Cholelithiasis	358546			18	18	17	18	
+FALSE	TRUE	TRUE	UKBB	Prostate cancer	PrC	349994			18	17	17	17	
+FALSE	TRUE	TRUE	BBJ	Atrial fibrillation	AFib	178726			18	18	18	18	
+FALSE	TRUE	TRUE	BBJ	Calcium	Ca	83980			15	15	15	15	
+FALSE	TRUE	TRUE	BBJ	Glucose	Glucose	133336			15	15	15	15	
+FALSE	TRUE	TRUE	UKBB	Glaucoma (Self-reported)	Glaucoma_Self	354399			14	14	14	14	
+TRUE	TRUE	TRUE	BBJ	Total bilirubin	TBil	124341			13	13	13	13	
+FALSE	TRUE	TRUE	BBJ	Colorectal cancer	CRC	169089			12	12	12	12	
+FALSE	TRUE	TRUE	UKBB	Autoimmune disases; strict definition (Phecode + Self-reported)	AID_STRICT_Combined	270550			11	10	10	10	
+FALSE	TRUE	TRUE	UKBB	Inflammatory bowel disease	IBD	300205			11	11	11	11	
+FALSE	TRUE	TRUE	UKBB	Migraine (Self-reported)	Migraine_Self	361144			11	11	11	11	
+FALSE	TRUE	TRUE	UKBB	Smoking (cigarrets per day)	Smoking_CPD	111293			10	10	10	10	
+FALSE	TRUE	TRUE	BBJ	Autoimmune disease	AID	178726			10	10	9	10	
+FALSE	TRUE	TRUE	UKBB	Autoimmune disases; strict definition (Phecode)	AID_STRICT	269180			9	8	8	8	
+FALSE	TRUE	TRUE	UKBB	Autoimmune disases; strict definition (Self-reported)	AID_STRICT_Self	361144			9	8	8	8	
+FALSE	TRUE	TRUE	UKBB	Lipoprotein A	LipoA	275456			9	9	9	9	
+FALSE	TRUE	TRUE	BBJ	Breast cancer	BrC	74945			9	9	9	9	
+FALSE	TRUE	TRUE	UKBB	Glaucoma (Phecode)	Glaucoma	354399			8	8	8	8	
+FALSE	TRUE	TRUE	BBJ	Asthma	Asthma	176087			8	8	8	8	
+FALSE	TRUE	TRUE	UKBB	Blood clot in the lung	Blood_Clot_Lung	361144			7	7	7	7	http://biobank.ctsu.ox.ac.uk/crystal/field.cgi?id=6152
+FALSE	TRUE	TRUE	BBJ	Glaucoma	Glaucoma	178726			6	6	6	6	
+FALSE	TRUE	TRUE	UKBB	Colorectal cancer	CRC	342123			5	5	5	5	
+FALSE	TRUE	TRUE	BBJ	Chronic obstructive pulmonary disease	COPD	171192			5	5	5	5	
+TRUE	TRUE	TRUE	BBJ	C-reactive protein	CRP	83025			5	5	5	5	
+FALSE	TRUE	TRUE	BBJ	Phosphate	P	46848			5	5	5	5	
+FALSE	TRUE	TRUE	BBJ	Smoking (cigarrets per day)	Smoking_CPD	74893			5	5	4	4	
+FALSE	TRUE	TRUE	BBJ	Ischemic stroke	IS	176331			3	3	3	3	
+FALSE	TRUE	TRUE	UKBB	Chronic obstructive pulmonary disease (Phecode)	COPD	339262			2	2	2	2	
+FALSE	TRUE	TRUE	UKBB	Chronic obstructive pulmonary disease (Phecode + Self-reported)	COPD_Combined	339262			2	2	2	2	
+FALSE	TRUE	TRUE	UKBB	Oestradiol	Oestradiol	55295			2	2	2	2	
+FALSE	TRUE	TRUE	UKBB	Osteoporosis	Osteoporosis	360047			2	2	2	2	
+FALSE	TRUE	TRUE	UKBB	Ischemic stroke	IS	353937			1	1	1	1	
+FALSE	TRUE	TRUE	UKBB	Lung cancer	LuC	360610			1	1	1	1	
+FALSE	TRUE	TRUE	UKBB	Rheumatoid factor	RF	31083			1	1	1	1	
+FALSE	TRUE	TRUE	BBJ	Pancreas cancer	PaC	162663			1	1	1	1	
+FALSE	TRUE	TRUE	BBJ	Smoking (ever vs never)	Smoking_Ever_Never	177204			1	1	1	1	

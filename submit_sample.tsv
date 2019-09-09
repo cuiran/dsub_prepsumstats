@@ -1,0 +1,22 @@
+--env SUMSTAT	--env N	--env OUT
+/mnt/data/ss/UKB.ApoA.BOLT.txt	315139	/mnt/data/result/UKB.ApoA.BOLT
+/mnt/data/ss/UKB.ApoB.BOLT.txt	343572	/mnt/data/result/UKB.ApoB.BOLT
+/mnt/data/ss/UKB.CRP.BOLT.txt	344503	/mnt/data/result/UKB.CRP.BOLT
+/mnt/data/ss/UKB.CysC.BOLT.txt	345219	/mnt/data/result/UKB.CysC.BOLT
+/mnt/data/ss/UKB.DBil.BOLT.txt	294785	/mnt/data/result/UKB.DBil.BOLT
+/mnt/data/ss/UKB.GGT.BOLT.txt	345062	/mnt/data/result/UKB.GGT.BOLT
+/mnt/data/ss/UKB.HDLC.BOLT.txt	316875	/mnt/data/result/UKB.HDLC.BOLT
+/mnt/data/ss/UKB.HbA1c.BOLT.txt	345271	/mnt/data/result/UKB.HbA1c.BOLT
+/mnt/data/ss/UKB.IBil.BOLT.txt	294542	/mnt/data/result/UKB.IBil.BOLT
+/mnt/data/ss/UKB.LDLC.BOLT.txt	344613	/mnt/data/result/UKB.LDLC.BOLT
+/mnt/data/ss/UKB.LipoA.BOLT.txt	275456	/mnt/data/result/UKB.LipoA.BOLT
+/mnt/data/ss/UKB.MCH.BOLT.txt	351324	/mnt/data/result/UKB.MCH.BOLT
+/mnt/data/ss/UKB.SHBG.BOLT.txt	313997	/mnt/data/result/UKB.SHBG.BOLT
+/mnt/data/ss/UKB.TBil.BOLT.txt	343836	/mnt/data/result/UKB.TBil.BOLT
+/mnt/data/ss/UKB.TC.BOLT.txt	345235	/mnt/data/result/UKB.TC.BOLT
+/mnt/data/ss/UKB.TG.BOLT.txt	344952	/mnt/data/result/UKB.TG.BOLT
+/mnt/data/ss/UKB.UA.BOLT.txt	344801	/mnt/data/result/UKB.UA.BOLT
+/mnt/data/ss/UKB.VitD.BOLT.txt	330456	/mnt/data/result/UKB.VitD.BOLT
+/mnt/data/ss/UKB.eBMD.BOLT.txt	326159	/mnt/data/result/UKB.eBMD.BOLT
+/mnt/data/ss/UKB.eGFRcreacys.BOLT.txt	344825	/mnt/data/result/UKB.eGFRcreacys.BOLT
+/mnt/data/ss/UKB.eGFRcys.BOLT.txt	345219	/mnt/data/result/UKB.eGFRcys.BOLT
